@@ -1,4 +1,3 @@
-from sqlite3.dbapi2 import version
 from setuptools import find_packages, setup
 
 setup(
